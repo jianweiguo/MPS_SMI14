@@ -1,0 +1,1 @@
+gx_sampling.exe sphere.obj -rmin 0.03
